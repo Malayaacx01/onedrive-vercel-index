@@ -62,7 +62,9 @@ module.exports = {
     {
       name: 'Youtube',
       link: 'https://www.youtube.com/channel/UC_6FPfvFtX3kz3KBhQvZlSw',
+    },  
   ],
+  
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
   // without timezone and replacing T with space.
